@@ -21,4 +21,4 @@ Hi, welcome to the last github profile using french for his repo's names. I'm Ju
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulesVolpei&show_icons=true&theme=swift)
 
 
-<img height="150" width="150" src="https://media2.giphy.com/media/QBuqUhOb96s89zKdBV/giphy.gif" />
+<img height="50" width="50" src="https://media2.giphy.com/media/QBuqUhOb96s89zKdBV/giphy.gif" /> 
