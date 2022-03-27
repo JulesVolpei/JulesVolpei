@@ -1,6 +1,6 @@
 # Jules Volpei
 
-Hi, welcome to the last github profile using french for his repo's names. I'm Jules Volpei a french student currently studying computer science in the Aix-en-Provence IUT. My goal is to become a computer science project director in sector as artificial intelligence for instance, so I'm focusing on learning language like Python or C++. 
+Hi, welcome to the last github profile using french for his repos' names. I'm Jules Volpei a french student currently studying computer science in the Aix-en-Provence IUT. My goal is to become a computer science project director in sector as artificial intelligence for instance, so I'm focusing on learning language like Python or C++. 
 
 * __Projects / Works__ :
   * [Space Invader](https://github.com/JulesVolpei/CasaliShooter)
