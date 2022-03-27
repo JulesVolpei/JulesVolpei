@@ -1,6 +1,6 @@
 # Jules Volpei
 
-Hi, welcome to the last github profile using french for his repo's names.
+Hi, welcome to the last github profile using french for his repo's names. I'm Jules Volpei a french student currently studying computer science in the Aix-en-Provence IUT. I don't know in which computer science sector I want to work but I'm interested in learning artificial intelligence, so I'm focusing on learning language like Python or C++. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulesVolpei&show_icons=true&theme=swift)
 
