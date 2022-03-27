@@ -1,5 +1,6 @@
 # Jules Volpei
 
+Hi, welcome to the last github profile using french for his repo's names.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulesVolpei&show_icons=true&theme=swift)
 
@@ -9,4 +10,4 @@
 
 
 
-### Currently working on ...
+### 
