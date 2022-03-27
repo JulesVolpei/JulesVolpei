@@ -16,9 +16,8 @@ Hi, welcome to the last github profile using french for his repo's names. I'm Ju
 
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/python/python.png" /> <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/java/java.png" />
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulesVolpei&show_icons=true&theme=swift)
-
+<h1 align='center'> <strong> Stats </strong> </h1>
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulesVolpei&show_icons=true&theme=swift)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulesVolpei&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 <img height="50" width="50" src="https://media2.giphy.com/media/QBuqUhOb96s89zKdBV/giphy.gif" /> 
