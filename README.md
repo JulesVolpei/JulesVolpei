@@ -7,6 +7,7 @@ Hi, welcome to the last github profile using french for his repo's names. I'm Ju
   * [8-puzzle solver](https://github.com/JulesVolpei/jeuDuTaquin)
   * [Goldbach Conjecture](https://github.com/JulesVolpei/ConjectureGoldbach)
 
+
 * __Contacts__ :
   * <img height="15" width="15" src="https://heydiag-rdv.fr/assets/mail.png" /> jules.volpei@etu.univ-amu.fr
   * <img height="15" width="15" src="https://www.presse-citron.net/app/uploads/2020/06/linkedin-logo.jpg" /> [Linkedin](https://www.linkedin.com/in/jules-volpei-788286230/)
@@ -18,3 +19,6 @@ Hi, welcome to the last github profile using french for his repo's names. I'm Ju
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulesVolpei&show_icons=true&theme=swift)
+
+
+<img height="150" width="150" src="https://media2.giphy.com/media/QBuqUhOb96s89zKdBV/giphy.gif" />
