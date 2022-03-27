@@ -4,8 +4,14 @@ Hi, welcome to the last github profile using french for his repo's names. I'm Ju
 
 * __Projects / Works__ :
   * [Space Invader](https://github.com/JulesVolpei/CasaliShooter)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JulesVolpei&repo=CasaliShooter&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
   * [8-puzzle solver](https://github.com/JulesVolpei/jeuDuTaquin)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JulesVolpei&repo=jeuDuTaquin&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
   * [Goldbach Conjecture](https://github.com/JulesVolpei/ConjectureGoldbach)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JulesVolpei&repo=ConjectureGoldbach&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align='center'> <img height="200" width="200" alt="GIF" align='right' src="https://i.pinimg.com/originals/53/04/96/530496f5dcf65046e8c0360d7d89b10a.gif" style="float:right;margin:0 10px 0 20px;"> </div>
 
