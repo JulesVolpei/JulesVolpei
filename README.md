@@ -8,6 +8,7 @@ Hi, welcome to the last github profile using french for his repos' names. I'm Ju
   * [Goldbach Conjecture](https://github.com/JulesVolpei/ConjectureGoldbach)
   * [Javapprendre](https://github.com/JulesVolpei/Javapprendre)
   * [Stats Meteo](https://github.com/JulesVolpei/Stats-Meteo)
+  * [Wordle solver](https://github.com/JulesVolpei/WordleSolver)
 
 <div align='center'> <img height="200" width="200" alt="GIF" align='right' src="https://i.pinimg.com/originals/53/04/96/530496f5dcf65046e8c0360d7d89b10a.gif" style="float:right;margin:0 10px 0 20px;"> </div>
 
