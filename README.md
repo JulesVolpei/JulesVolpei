@@ -16,7 +16,7 @@ Who invented web programming ??? Thank God OpenCV exists
 <div align='center'> <img height="200" width="200" alt="GIF" align='right' src="https://i.pinimg.com/originals/53/04/96/530496f5dcf65046e8c0360d7d89b10a.gif" style="float:right;margin:0 10px 0 20px;"> </div>
 
 * __Contacts__ :
-  * <img height="15" width="15" src="https://heydiag-rdv.fr/assets/mail.png" /> jules.volpei@etu.univ-amu.fr
+  * <img height="15" width="15" src="https://heydiag-rdv.fr/assets/mail.png" /> jules.volpei@univ-lyon2.fr
   * <img height="15" width="15" src="https://www.presse-citron.net/app/uploads/2020/06/linkedin-logo.jpg" /> [Linkedin](https://www.linkedin.com/in/jules-volpei-788286230/)
 
 * __Languages and tools__ :
