@@ -1,6 +1,6 @@
 # Jules Volpei
 
-Hi, welcome to the last github profile using french for his repos' names. I'm Jules Volpei a french student currently studying bioinformatics in the Montpellier University. My goal is to become a computer science project director in sector as artificial intelligence (applied to biologie) for instance, so I'm focusing on learning language like Python or C++. I'm also very dedicated to learn more about OOP thanks to programming languages such as Java for instance.
+Hi, welcome to the last github profile using french for his repos' names. I'm Jules Volpei a french student currently studying cs in Lyon. My goal is to become a computer science project director in sector as artificial intelligence (applied to biologie) for instance, so I'm focusing on learning language like Python or C++. I'm also very dedicated to learn more about OOP thanks to programming languages such as Java for instance. Also working for Decathlon Digital as a work-study data engineer.
 
 Who invented web programming ??? Thank God OpenCV exists
 
