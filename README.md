@@ -12,6 +12,7 @@ Who invented web programming ??? Thank God OpenCV exists
   * [Stats Meteo](https://github.com/JulesVolpei/Stats-Meteo)
   * [Wordle solver](https://github.com/JulesVolpei/WordleSolver)
   * [Extensometer measurement software](https://forgemia.inra.fr/jules.volpei/ExtensometreLogiciel)
+  * GoGoAlternance
 
 <div align='center'> <img height="200" width="200" alt="GIF" align='right' src="https://i.pinimg.com/originals/53/04/96/530496f5dcf65046e8c0360d7d89b10a.gif" style="float:right;margin:0 10px 0 20px;"> </div>
 
