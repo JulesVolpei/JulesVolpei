@@ -51,6 +51,8 @@ Who invented web programming ??? Thank God OpenCV exists
 
 <h1 align="center"> <strong> Stats </strong> </h1>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulesVolpei&show_icons=true&theme=swift)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulesVolpei&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulesVolpei&theme=swift)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JulesVolpei&theme=swift)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <img height="50" width="50" alt="GIF" src="https://media2.giphy.com/media/QBuqUhOb96s89zKdBV/giphy.gif" /> 
